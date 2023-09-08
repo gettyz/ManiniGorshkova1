@@ -1,3 +1,4 @@
+#не знаю что еще придумать и я устал
 from matplotlib import pyplot as plt
 #добавление обозначений
 plt.title('Машинки')
