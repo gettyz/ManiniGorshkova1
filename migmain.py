@@ -21,9 +21,3 @@ Y = [40/5, 0]
 plt.plot(X, Y)
 # #создание вектора
 
-plt.text(1.2, 19.5, 'X2 <= 19',fontsize=10)
-plt.text(25, 10, '4X1 + 5X2 <= 141',fontsize=10)
-plt.text(6.5, 4, 'перпендикуляр',fontsize=10)
-#display the graph
-plt.show()
-#слишком сложно 
