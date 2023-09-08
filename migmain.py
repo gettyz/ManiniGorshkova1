@@ -11,10 +11,12 @@ plt.scatter(14, 17, c= 'blue')
 plt.plot([0,20],[17, 17])
 plt.plot([19, 19],[0, 20])
 plt.plot([0,35.25],[28.2, 0])
+#точки х у
 X = [0, 34/3]
 Y = [40/5, 0]
 plt.plot(X, Y)
 plt.arrow(0, 0, 3, 5, width= 0.2)
+#подписи
 plt.text(1.5, 1, 'Z(3,5)',fontsize=10)
 plt.text(20, 1, 'X1 <= 17',fontsize=10)
 plt.text(1.2, 19.5, 'X2 <= 19',fontsize=10)
