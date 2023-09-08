@@ -24,3 +24,4 @@ plt.text(25, 10, '4X1 + 5X2 <= 141',fontsize=10)
 plt.text(6.5, 4, 'перпендикуляр',fontsize=10)
 #display the graph
 plt.show()
+#слишком сложно 
