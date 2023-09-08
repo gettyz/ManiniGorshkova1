@@ -20,13 +20,3 @@ Y = [40/5, 0]
 #постоение прямой по точке
 plt.plot(X, Y)
 # #создание вектора
-plt.arrow(0, 0, 3, 5, width= 0.2)
-#подписи
-plt.text(1.5, 1, 'Z(3,5)',fontsize=10)
-plt.text(20, 1, 'X1 <= 17',fontsize=10)
-plt.text(1.2, 19.5, 'X2 <= 19',fontsize=10)
-plt.text(25, 10, '4X1 + 5X2 <= 141',fontsize=10)
-plt.text(6.5, 4, 'перпендикуляр',fontsize=10)
-#display the graph
-plt.show()
-#слишком сложно 
